@@ -1,0 +1,9 @@
+*.exe
+*.msi
+*.apk
+*.one
+*.onetoc2
+runtime/
+payload/
+target/
+src/

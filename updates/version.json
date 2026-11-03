@@ -1,0 +1,9 @@
+{
+    "version":  "1.06",
+    "built_at":  "2026-11-03 13:12:26",
+    "released_at":  "2026-11-03T13:14:37+09:00",
+    "patch_url":  "https://raw.githubusercontent.com/hosokawanagaokasangyou-dotcom/saigai-viewer-update/main/updates/update_patch.zip",
+    "notes":  "・GitHubパブリックリポジトリからの自動アップデート配信に対応\n・OneNote取込中でも保存済み事例の閲覧・中断が可能に対応",
+    "sha256":  "c0b8dcbf38aa8835a1b1df2bd20810faa2948dd6865b5fddbb49412b39babce2",
+    "size":  1286722
+}
